@@ -90,14 +90,16 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Next Steps
 
-* Open a pull request and let your teacher know that you’ve finished this course.
-* Introduce yourself in the Pull Request.
-* Create a new Markdown file in this repository. You can call it "intro.md"
-*  Mention what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository.
-* You can just experiment with the features within that repository to familiarize yourself with them.
+* Create a new Markdown file in the root of your repository. You can call it "FirstNameLastName.md" like "RodolfoMadero.md"
+* In the markdown file, mention what you learned and what you are still confused about! Experiment with different styles. Also, let me know that you’ve finished the intro steps and watched the ["Git/Github Crash Course"](https://www.youtube.com/watch?v=vA5TTz6BXhY).
+* Open a pull request with the new markdown file and include a link to your profile ReadMe in the Pull Request.
+* Note: This will be a Public Pull Request for the class to see.
 
+## 📝 Optional Next Steps
+
+* Feel free to comment on one of your peers' Pull Requests to keep an introduction conversation going.
+  
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
