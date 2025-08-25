@@ -92,7 +92,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Create a new Markdown file in the root of your repository. You can call it "FirstNameLastName.md" like "RodolfoMadero.md"
-* In the markdown file, mention what you learned and what you are still confused about! Experiment with different styles. Also, let me know that you’ve finished the intro steps and watched the ["Git/Github Crash Course"](https://www.youtube.com/watch?v=vA5TTz6BXhY).
+* In the markdown file, mention what you learned and what you are still confused about! Experiment with different styles. Also, let me know that you’ve finished the intro steps and watched the ["Git & GitHub Crash Course"](https://www.youtube.com/watch?v=vA5TTz6BXhY).
 * Open a pull request with the new markdown file and include a link to your profile ReadMe in the Pull Request.
 * Note: This will be a Public Pull Request for the class to see.
 
